@@ -1,6 +1,6 @@
-# Vyom Mobile App - Judge Documentation Pack
+# Vyom Mobile App - Documentation Pack
 
-This folder is a code-free documentation pack for the Vyom mobile project. It is designed for judges, mentors, and reviewers who need to understand the complete app idea, product scope, system architecture, APIs, and technology choices without seeing the actual application source code.
+This folder is a code-free documentation pack for the Vyom mobile project. It is designed for mentors, recruiters and reviewers who need to understand the complete app idea, product scope, system architecture, APIs, and technology choices without seeing the actual application source code.
 
 ## What Vyom Is
 
@@ -14,7 +14,6 @@ Vyom is a mobile-first social commerce platform where local sellers can sell thr
 - [System Architecture](./04-system-architecture.md)
 - [API Reference](./05-api-reference.md)
 - [Security And Data Notes](./06-security-and-data-notes.md)
-- [Judge Demo Guide](./07-judge-demo-guide.md)
 
 ## What Is Included
 
